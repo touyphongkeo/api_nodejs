@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.5.1",
+    "express-sanitizer": "^1.0.6",
+    "file-type": "^16.5.3",
+    "image-size-from-base64": "^1.0.7",
+    "init": "^0.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "multer": "^1.4.3",
+    "mysql": "^2.18.1",
+    "pm2": "^5.1.2",
+    "uuid": "^8.3.2"
+  }
+}
